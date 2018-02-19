@@ -1,6 +1,7 @@
 # Frontend For Designers
 Opdracht 1 en gekozen use case voor het vak.
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
+--
 
 ### Versie 1
 Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto's moet resetten om steeds van kleur te wisselen. Daarom heb ik een rest knop bij gevoegd. Dus je kan niet filteren door te klikken op blauw en dan weer geel en dan weer groen, maar van 'blauw' vervolgens 'reset' en zo weer door.
@@ -16,7 +17,7 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 - Buttons kunnen groter en uiterlijk moet meer als een knop
 - Laat zien welke knop is geselecteerd (states van de knoppen)
 3. Het ontwerp is aantoonbaar getest en verbeterd. Vaslegging en reultaat publiceren op Github
-- De resultaten zijn aantoobaar in de README van Opdracht 1 en op Github
+- De resultaten zijn aantoonbaar in de README van Opdracht 1 en op Github
   
 ### Versie 3
 -----
