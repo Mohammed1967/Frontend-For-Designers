@@ -1,7 +1,7 @@
 # Frontend For Designers
 Opdracht 1 en gekozen use case voor het vak.
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
---
+---
 
 ### Versie 1
 Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto's moet resetten om steeds van kleur te wisselen. Daarom heb ik een rest knop bij gevoegd. Dus je kan niet filteren door te klikken op blauw en dan weer geel en dan weer groen, maar van 'blauw' vervolgens 'reset' en zo weer door.
