@@ -1,4 +1,4 @@
-# FrontendForDesigners
+# Frontend For Designers
 Opdracht 1 en gekozen use case voor het vak.
 Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
 
@@ -11,13 +11,14 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
 - De tweede versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)
 2. De twee Principles of User Interface Design 04 (Keep users in control) & 11 (Strong visual hierarchies work best) zijn toegepast.
-- De vormgeving is goed maar kan een stuk beter. Een aantal feedback punten: 
+- De vormgeving is goed, maar kan een stuk beter. Een aantal feedback punten: 
 - Titel text valt weg
 - Buttons kunnen groter en uiterlijk moet meer als een knop
 - Laat zien welke knop is geselecteerd (states van de knoppen)
+3. Het ontwerp is aantoonbaar getest en verbeterd. Vaslegging en reultaat publiceren op Github
+- De resultaten zijn aantoobaar in de README van Opdracht 1 en op Github
   
 ### Versie 3
-
 
 
 Versies en bijhorende demo's:
