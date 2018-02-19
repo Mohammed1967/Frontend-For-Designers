@@ -11,17 +11,19 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
 - *De 2de versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)*
 2. De twee Principles of User Interface Design 04 (Keep users in control) & 11 (Strong visual hierarchies work best) zijn toegepast.
-- *De vormgeving is mooi maar kan een stuk beter. Een aantal onderdelen die beter kunnen zijn:*
-- **Titel text valt weg**
-- 
-Versie 3 - 
+- *De vormgeving is goed maar kan een stuk beter. Een aantal feedback punten: *
+  *Titel text valt weg*
+  *Buttons kunnen groter en uiterlijk moet meer als een knop*
+  *Laat zien welke knop is geselecteerd (states van de knoppen)*
+  
+### Versie 3
 
 
 
-Versies:
+Versies en bijhorende demo's:
 
 
-- [Demo 1](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%231/)
-- [Demo 2](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
-- [Demo 3](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
+- [Versie 1 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%231/)
+- [Versie 2 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
+- [Versie 3 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
 
