@@ -15,11 +15,14 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 - De vormgeving is goed, maar kan een stuk beter. Een aantal feedback punten: 
 - Titel text valt weg
 - Buttons kunnen groter en uiterlijk moet meer als een knop
-- Laat zien welke knop is geselecteerd (states van de knoppen)
-3. Het ontwerp is aantoonbaar getest en verbeterd. Vaslegging en reultaat publiceren op Github
+- States van de knoppen verbeteren
+3. Het ontwerp is aantoonbaar getest en verbeterd. Vaslegging en resultaat publiceren op Github
 - De resultaten zijn aantoonbaar in de README van Opdracht 1 en op Github
   
 ### Versie 3
+- De knoppen groter gemaakt en states toegevoegd
+- Header is duidelijker en groter
+- Foto's zijn 1em kleiner om de header en knoppen meer uit te laten komen
 -----
 
 ### Demo
@@ -28,5 +31,5 @@ Versies en bijhorende demo's:
 
 - [Versie 1 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%231/)
 - [Versie 2 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
-- [Versie 3 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
+- [Versie 3 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%233/)
 
