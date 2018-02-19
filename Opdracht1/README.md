@@ -1,6 +1,6 @@
 # Frontend For Designers
 Opdracht 1 en gekozen use case voor het vak.
-Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
+'Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
 ---
 
 ### Versie 1
