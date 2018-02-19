@@ -10,9 +10,10 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
 - *De 2de versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)*
-2. De twee Principles of User Interface Design 04 () & 11 () zijn toegepast.
-- **
-
+2. De twee Principles of User Interface Design 04 (Keep users in control) & 11 (Strong visual hierarchies work best) zijn toegepast.
+- *De vormgeving is mooi maar kan een stuk beter. Een aantal onderdelen die beter kunnen zijn:*
+- **Titel text valt weg**
+- 
 Versie 3 - 
 
 
