@@ -21,7 +21,7 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
   
 ### Versie 3
 - De knoppen groter gemaakt en states toegevoegd
-- Header is duidelijker en groter
+- Header is duidelijker en .5em groter
 - Foto's zijn 1em kleiner om de header en knoppen meer uit te laten komen
 -----
 
