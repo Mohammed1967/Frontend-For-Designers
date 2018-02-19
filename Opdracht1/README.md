@@ -9,12 +9,12 @@ Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto
 classList.remove en classList.add gebruikt in plaats van classList.toggle dus het probleem van versie 1 is opgelost. De rest knop heb ik veranderd naar een 'alles foto's'. Getest met gebruikers doormiddel van een test formulier (zie onder de voorwaarden). De gebruikers waren Lisa en Tom.
 
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
-- *De 2de versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)*
+- *De tweede versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)*
 2. De twee Principles of User Interface Design 04 (Keep users in control) & 11 (Strong visual hierarchies work best) zijn toegepast.
 - *De vormgeving is goed maar kan een stuk beter. Een aantal feedback punten: *
-  *Titel text valt weg*
-  *Buttons kunnen groter en uiterlijk moet meer als een knop*
-  *Laat zien welke knop is geselecteerd (states van de knoppen)*
+- Titel text valt weg
+- Buttons kunnen groter en uiterlijk moet meer als een knop
+- Laat zien welke knop is geselecteerd (states van de knoppen)
   
 ### Versie 3
 
