@@ -19,8 +19,9 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 - De resultaten zijn aantoobaar in de README van Opdracht 1 en op Github
   
 ### Versie 3
+-----
 
-
+### Demo
 Versies en bijhorende demo's:
 
 
