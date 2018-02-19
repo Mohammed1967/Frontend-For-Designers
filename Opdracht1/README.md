@@ -5,7 +5,7 @@ Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultate
 Versies:
 
 
-- [Vesie 1](https://github.com/Mohammed1967/Frontend-For-Designers/tree/master/Opdracht1)
-- [Versie 2](https://github.com/Mohammed1967/Frontend-For-Designers/tree/master/Opdracht1)
-- [Versie 3](https://github.com/Mohammed1967/Frontend-For-Designers/tree/master/Opdracht1)
+- [Demo 1](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%231/)
+- [Demo 2](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
+- [Demo 3](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
 
