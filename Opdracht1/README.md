@@ -9,7 +9,7 @@ Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto
 classList.remove en classList.add gebruikt in plaats van classList.toggle dus het probleem van versie 1 is opgelost. Getest met gebruikers doormiddel van een formulier. De gebruikers waren Lisa en Tom.
 
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze
-- In mijn geval is het ontwerp goed en voldoet het aan de voorwaarden
+   #In mijn geval is het ontwerp goed en voldoet het aan de voorwaarden#
 2. De twee Principles of User Interface Design 04 & 11 zijn toegepast
 
 Versie 3 - 
