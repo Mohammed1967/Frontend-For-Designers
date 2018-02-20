@@ -7,7 +7,7 @@ Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultate
 Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto's moet resetten om steeds van kleur te wisselen. Daarom heb ik een reset knop bij gevoegd. Dus je kan niet filteren door te klikken op blauw en dan weer geel en dan weer groen, maar van 'blauw' vervolgens 'reset' en zo weer door.
 
 ### Versie 2
-classList.remove en classList.add gebruikt in plaats van classList.toggle dus het probleem van versie 1 is opgelost. De reset knop heb ik veranderd naar een 'alles foto's'. Getest met gebruikers doormiddel van een test formulier (zie onder de voorwaarden). De gebruikers waren Lisa en Tom.
+classList.remove en classList.add gebruikt in plaats van classList.toggle dus het probleem van versie 1 is opgelost. De reset knop heb ik veranderd naar een 'alles foto's'. Getest met gebruikers doormiddel van een test formulier (zie onder de voorwaarden). De gebruikers waren Lisa en [Tom](https://github.com/TomWesterhof)
 
 1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
 - De tweede versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)
