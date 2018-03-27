@@ -28,8 +28,7 @@ classList.remove en classList.add gebruikt in plaats van classList.toggle dus he
 ### Demo
 Versies en bijhorende demo's:
 
-
-- [Versie 1 Demo](https://mohammed1967.github.io/Frontend-For-Designers//FFD_Opdracht1_Versie%231)
-- [Versie 2 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
-- [Versie 3 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%233/)
+- [Versie 1 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie1/FFD_Opdracht1_Versie%231)
+- [Versie 2 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie2/FFD_Opdracht1_Versie%232)
+- [Versie 3 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie3/FFD_Opdracht1_Versie%233)
 
