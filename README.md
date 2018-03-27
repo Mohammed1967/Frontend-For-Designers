@@ -3,6 +3,6 @@ Opdrachten voor het vak Frontend For Designers
 
 Het vak bestaat uit 3 opdrachten:
 
-- [Opdracht 1](https://mohammed1967.github.io/Frontend-For-Designers/tree/master/Opdracht2)
-- [Opdracht 2](https://github.com/Mohammed1967/Frontend-For-Designers/tree/master/Opdracht2)
-- [Opdracht 3](https://github.com/Mohammed1967/Frontend-For-Designers/tree/master/Opdracht3)
+- [Opdracht 1](Mohammed1967.github.io/Frontend-For-Designers/tree/master/Opdracht1)
+- [Opdracht 2](Mohammed1967.github.io/Frontend-For-Designers/tree/master/Opdracht2)
+- [Opdracht 3](Mohammed1967.github.io/Frontend-For-Designers/tree/master/Opdracht3)
