@@ -1,0 +1,48 @@
+body {
+    background-color: #394B70;
+    font-family: 'American Captain', serif;
+}
+
+p {
+    font-family: 'American Captain', sans-serif;
+    color: white;
+    margin: -15em 0em 0 -2em;
+    padding-left: 16em;
+}
+
+span {
+    font-family: 'American Captain', sans-serif;
+    color: #585a65;
+}
+
+h1 {
+    font-family: 'American Captain', sans-serif;
+    color: #05f2ce;
+}
+
+
+article {
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    padding: .5em 1em 13em 1em;
+    border-radius: 1em;
+    max-width: 35em;
+    margin: auto;
+    margin-top: 2em;
+}
+
+span {
+    margin-left: 14em;
+    margin-top: 2em;
+    display: flex;
+}
+
+
+article>img {
+    width: 12em;
+    height: 17em;
+}
+
+
+
