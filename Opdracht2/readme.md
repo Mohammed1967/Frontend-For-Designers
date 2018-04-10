@@ -12,7 +12,5 @@ Bij de eerste versie kan je je door de carousel heen doormiddel van pijltjes en 
 Versies en bijhorende demo's:
 
 
-- [Versie 1 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%231/)
-- [Versie 2 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%232/)
-- [Versie 3 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht1_Versie%233/)
+- [Versie 1 Demo](https://oege.ie.hva.nl/~farganm001/FFD_Opdracht2_Versie_2/)
 
