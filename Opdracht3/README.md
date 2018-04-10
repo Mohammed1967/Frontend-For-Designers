@@ -1,5 +1,5 @@
 # Frontend For Designers - Opdracht 3
-De Broscars is een website waar je films kan kiezen die je met je bro's kan kijken. Films die je op ieder moment van de dag kan kijken. De films worden ingeladen via een JSON file. Omdat github JSON files met http request niet ondersteund is de laatste werkende versie buiten Github te teste.
+De Broscars is een website waar je films kan kiezen die je met je bro's kan kijken. Films die je op ieder moment van de dag kan kijken. De films worden ingeladen via een JSON file.
 
 ---
 
@@ -17,10 +17,12 @@ Met css de layput veranderd en een carousel bij gevoegd.
 
 ### Versie 5
 - Werkend filterfunctie en aangepaste CSS.
+
+### Versie 6
+- Demo kunnen laten zien binnen Github.
 -----
 
 ### Demo
 
-- [Laatste Versie Demo](http://mohammedfargan.nl/Opdracht3)
-
+- https://Mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20database%20V6/FFD_Opdracht3_Versie_6
 
