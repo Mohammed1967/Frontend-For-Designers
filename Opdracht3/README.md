@@ -20,8 +20,7 @@ Met css de layput veranderd en een carousel bij gevoegd.
 -----
 
 ### Demo
-Versies en bijhorende demo's:
 
-- [Laatste versie Demo](http://mohammedfargan.nl/Opdracht3/
+- [Laatste Versie Demo](http://mohammedfargan.nl/Opdracht3)
 
 
