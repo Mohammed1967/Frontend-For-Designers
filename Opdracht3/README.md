@@ -24,5 +24,5 @@ Met css de layput veranderd en een carousel bij gevoegd.
 
 ### Demo
 
-- https://Mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20database%20V6/FFD_Opdracht3_Versie_6
+- [Laatste versie Demo](https://Mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20database%20V6/FFD_Opdracht3_Versie_6)
 
