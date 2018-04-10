@@ -6,10 +6,6 @@ Carousel met vakantiefoto's: Een carousel met meerdere foto's van een vakantie, 
 ### Versie 1
 Bij de eerste versie kan je je door de carousel heen doormiddel van pijltjes en door de pijltoetsjes op het toetsenbord.
 
-### Versie 2
-
-### Versie 3
-
 -----
 
 ### Demo
