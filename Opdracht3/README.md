@@ -1,34 +1,27 @@
-# Frontend For Designers
-Opdracht 1 en gekozen use case voor het vak.
-Als ik foto's zoek wil ik kunnen selecteren op kleur om verassende zoekresultaten te krijgen.
+# Frontend For Designers - Opdracht 3
+De Broscars is een website waar je films kan kiezen die je met je bro's kan kijken. Films die je op ieder moment van de dag kan kijken. De films worden ingeladen via een JSON file. Omdat github JSON files met http request niet ondersteund is de laatste werkende versie buiten Github te teste.
+
 ---
 
 ### Versie 1
-Bij de eerste versie kan je filteren om kleur. De issue is alleen dat je de foto's moet resetten om steeds van kleur te wisselen. Daarom heb ik een reset knop bij gevoegd. Dus je kan niet filteren door te klikken op blauw en dan weer geel en dan weer groen, maar van 'blauw' vervolgens 'reset' en zo weer door.
+Bij de eerste versie is het gelukt om de films via de JSON file te uploaden.
 
 ### Versie 2
-classList.remove en classList.add gebruikt in plaats van classList.toggle dus het probleem van versie 1 is opgelost. De reset knop heb ik veranderd naar een 'alles foto's'. Getest met gebruikers doormiddel van een test formulier (zie onder de voorwaarden). De gebruikers waren [Lisa](https://github.com/LisaOttenhof) en [Tom](https://github.com/TomWesterhof)
-
-1. De uitwerking van het ontwerp moet het doen in een brouwser en device naar keuze.
-- De tweede versie voldoet aan de voorwaarden en werkt op (Safari, Firefox, Chrome, IE, Edge, Opera en op mobiel)
-2. De twee Principles of User Interface Design 04 (Keep users in control) & 11 (Strong visual hierarchies work best) zijn toegepast.
-- De vormgeving is goed, maar kan een stuk beter. Een aantal feedback punten: 
-- Titel text valt weg
-- Buttons kunnen groter en uiterlijk moet meer als een knop
-- States van de knoppen verbeteren
-3. Het ontwerp is aantoonbaar getest en verbeterd. Vaslegging en resultaat publiceren op Github
-- De resultaten zijn aantoonbaar in de README van Opdracht 1 en op Github
+Met css de layput veranderd en een carousel bij gevoegd.
   
 ### Versie 3
-- De knoppen groter gemaakt en states toegevoegd
-- Header is duidelijker en .5em groter
-- Foto's zijn 1em kleiner om de header en knoppen meer uit te laten komen
+- De acteurs en regisseurs bij toegevoegd.
+
+### Versie 4
+- Radio buttons bij gezet voor de filterfunctie.
+
+### Versie 5
+- Werkend filterfunctie en aangepaste CSS.
 -----
 
 ### Demo
 Versies en bijhorende demo's:
 
-- [Versie 1 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie1/FFD_Opdracht1_Versie_1)
-- [Versie 2 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie2/FFD_Opdracht1_Versie_2)
-- [Versie 3 Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht1/Versie3/FFD_Opdracht1_Versie_3)
+- [Laatste versie Demo](http://mohammedfargan.nl/Opdracht3/
+
 
