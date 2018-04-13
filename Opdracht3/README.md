@@ -1,7 +1,7 @@
 # Frontend For Designers - Opdracht 3
 De Broscars is een website waar je de films kan bekijken die genomineerd zijn voor een Broscar. Broscar films zijn films die je op ieder moment van de dag kan kijken samen met je bro's. De films worden ingeladen via een JSON file.
 
-- [Laatste Versie Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Moviedatabase%20V3/Frontend_Versie_3)
+- [Laatste Versie Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20Database%20V5/Moviedatabase%20V5)
 
 # JSON content inladen en vormgeven
 Het ontwerpen van een template en deze opvullen door Javascript met data vanuit een externe bron. De data die ingeladen moet door verschillende manieren bedient kunnen worden. Screenshots zijn bijgevoegd bij elke versie. 
@@ -31,13 +31,32 @@ Het ontwerpen van een template en deze opvullen door Javascript met data vanuit 
 
 <img src="https://oege.ie.hva.nl/~farganm001/Githubimages/versie%204.png" width="900"> 
 
-# 5e Versie - [Moviedatabase V5](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Moviedatabase%20V3/Frontend_Versie_3)
+# 5e Versie - [Moviedatabase V5](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20Database%20V5/Moviedatabase%20V5)
 
 <em>Bij de 5de en tevens de laatste versie heb ik de kleuren veranderd en de films secties wat kleiner gemaakt.
   Ik heb een kopje 'Actor' toegevoegd en gestyled. Footer en span gestyled en beter gepositioneerd. 
-  De filter functie werkt beter en het is ook duidelijk voor de gebruiker wat welk genre gekozen is.</em>
+  De filter functie werkt beter en het is ook duidelijk voor de gebruiker welk genre gekozen is.</em>
 
 <img src="https://oege.ie.hva.nl/~farganm001/Githubimages/versie%205.png" width="900"> 
 
-
 ---
+
+# Principles of User Interface Design No. 04, 09 en 11 
+
+> No. 04 - Keep users in control
+
+Ik heb in de verschillende versies gespeeld met de positie van de knoppen van de carousel. De positie van de knoppen zorgt ervoor dat de gebruikes gelijk weet dat er geklikt op kan worden. Gecombineerd met de indicators geeft het de gebruiker een gevoel van controle. 
+
+Als gebruiker kan je op de site filteren door de genomineerden films. Dit werkt prima, alleen kan een stuk beter. Ik kan op de volgende versie animaties toevoegen. Wat voor een beter user experience zorgt.
+
+> No. 09 - Appearance follows behavior
+
+De pijlen links en rechts van de carousel gecombineerd met de indicators geven al aan dat er nog meer informatie te zien is.
+Klik je op de linker pijl, dan verschijnt er van de linkerkant een andere film. Dit geldt ook als je op de rechter pijl klikt. Hierbij wordt de flow van het klikken nagebootst en gaat de foto in de beweging van de klik.
+
+Op het filter gedeelte heb je een aantal knoppen waar je mee kan filteren. Bovenaande knoppen staat ook een uitleg over de knoppen. Zonder de uitleg kan de gebruiker ook inschatten over de werking van de filter. 
+
+> No. 11 - Strong visual hierarchies work best
+
+Ik heb de carousel met de gehighlighte films gecentreerd, omdat de gebruiker dan al een idee krijgt over de website. 
+Door de films naast elkaar te zetten, de afbeelding een donder achtergrond heeft, de titels groter en duidelijker te maken weten de gebuikers over welke films het gaat zonder dat de gebruiker de plot of titel moet lezen.
