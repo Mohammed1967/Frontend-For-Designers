@@ -1,7 +1,7 @@
 # Frontend For Designers - Opdracht 3
-De Broscars is een website waar je films kan kiezen die je met je bro's kan kijken. Films die je op ieder moment van de dag kan kijken. De films worden ingeladen via een JSON file.
+De Broscars is een website waar je de films kan bekijken die genomineerd zijn voor een Broscar. Broscar films zijn films die je op ieder moment van de dag kan kijken samen met je bro's. De films worden ingeladen via een JSON file.
 
-- [Laatste versie Demo](https://Mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Movie%20database%20V7/FFD_Opdracht3_Versie_7)
+- [Laatste Versie Demo](https://mohammed1967.github.io/Frontend-For-Designers/Opdracht3/Moviedatabase%20V3/Frontend_Versie_3)
 
 # JSON content inladen en vormgeven
 Het ontwerpen van een template en deze opvullen door Javascript met data vanuit een externe bron. De data die ingeladen moet door verschillende manieren bedient kunnen worden. Screenshots zijn bijgevoegd bij elke versie. 
@@ -39,3 +39,5 @@ Het ontwerpen van een template en deze opvullen door Javascript met data vanuit 
 
 <img src="https://oege.ie.hva.nl/~farganm001/Githubimages/versie%205.png" width="900"> 
 
+
+---
